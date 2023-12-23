@@ -1,4 +1,4 @@
-import React from "react";
+
 
 const Banner = () => {
   return (
@@ -7,7 +7,7 @@ const Banner = () => {
         <div className="text-center">
           <h1 className="md:text-5xl text-3xl font-bold  max-w-lg">
             {" "}
-            Welcome to TaskNexa!
+            Welcome to TaskNexa !
           </h1>
           <p className="py-6 max-w-lg">
             TaskForge is not just another task management tool; it's a dynamic

@@ -1,7 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 export default {
   daisyui: {
-    themes: ["luxury", "light", "dark", "cupcake"],
+    themes: ["luxury"],
   },
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
